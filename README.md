@@ -9,5 +9,4 @@ In this example a line is readed after -data and printed to the console.
 
 Additional examples:
 
-<img src="E:\Загрузки\demonstration-1.gif" width="200" height="200"/>
-
+![demonstration-1](https://user-images.githubusercontent.com/51421459/74585529-7c090c80-4fee-11ea-870e-c00c58e83d25.gif)
