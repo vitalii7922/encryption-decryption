@@ -8,4 +8,4 @@ Example 2: java Main -key 5 -alg unicode -data "\jqhtrj%yt%m~ujwxpnqq&" -mode de
 In this example a line is readed after -data and printed to the console.
 
 Additional examples:
-src="https://stepik.org/media/attachments/lesson/209884/demonstration.mp4" class="rounded"></video>
+src="https://stepik.org/media/attachments/lesson/209884/demonstration.mp4"
