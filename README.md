@@ -9,5 +9,5 @@ In this example a line is readed after -data and printed to the console.
 
 Additional examples:
 
-<video src="https://stepik.org/media/attachments/lesson/209884/demonstration.mp4" class="rounded"></video>
+<img data-v-55944ad0 id="project-gif-42" src="E:\Загрузки\demonstration-1.gif" class="w-100 rounded">
 
