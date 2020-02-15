@@ -9,5 +9,5 @@ In this example a line is readed after -data and printed to the console.
 
 Additional examples:
 
-<img data-v-55944ad0 id="project-gif-42" src="E:\Загрузки\demonstration-1.gif" class="w-100 rounded">
+<img src="E:\Загрузки\demonstration-1.gif" width="200" height="200"/>
 
